@@ -1,0 +1,8 @@
+E:\My Soft\C#\Mail\MailSending\MailSending\bin\Debug\MailSending.exe
+E:\My Soft\C#\Mail\MailSending\MailSending\bin\Debug\MailSending.pdb
+E:\My Soft\C#\Mail\MailSending\MailSending\obj\Debug\ResolveAssemblyReference.cache
+E:\My Soft\C#\Mail\MailSending\MailSending\obj\Debug\MailSending.frmMailSending.resources
+E:\My Soft\C#\Mail\MailSending\MailSending\obj\Debug\MailSending.Properties.Resources.resources
+E:\My Soft\C#\Mail\MailSending\MailSending\obj\Debug\MailSending.csproj.GenerateResource.Cache
+E:\My Soft\C#\Mail\MailSending\MailSending\obj\Debug\MailSending.exe
+E:\My Soft\C#\Mail\MailSending\MailSending\obj\Debug\MailSending.pdb
